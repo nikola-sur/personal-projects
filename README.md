@@ -41,6 +41,7 @@ I have done work on:
 
 ## Personal Project - "Twenty Questions Against AI"
 *Link: https://github.com/nikola-sur/twenty-questions*
+*Game: https://ai-twenty-questions.netlify.app/*
 
 Play the classic guessing game against AI. You can choose to have the AI guess your object or try to guess the AI's chosen object. Custom themes/topics are also possible.
 
