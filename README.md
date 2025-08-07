@@ -7,7 +7,7 @@ For more information about my professional projects, see my homepage: www.nikola
 ## Professional Project - "Pigeons: Distributed Sampling from Intractable Distributions"
 *Link: https://github.com/Julia-Tempering/Pigeons.jl* 
 
-I am a core contributor of the Pigeons project, a Julia package for distributed sampling from intractable distribution on up to 1,000s of MPI-communicating machines. A Python interface for the package is currently in progress. The package is used by numerous astrophysicists and scientists around the world, such as at the Event Horizon Telescope and Harvard University.
+I am a core contributor of the Pigeons project, a Julia package for distributed sampling from intractable distributions on up to 1,000s of MPI-communicating machines. A Python interface for the package is currently in progress. The package is used by numerous astrophysicists and scientists around the world, such as at the Event Horizon Telescope and Harvard University.
 
 <p align="center">
   <img src="img/pigeons.png" alt="Pigeons logo" width="100"/>
@@ -29,8 +29,8 @@ Learn more about my research at www.nikola-sur.com. Research papers I have autho
 - Neural Information Processing Systems (NeurIPS)
 - International Conference on Machine Learning (ICML)
 - Artificial Intelligence and Statistics (AISTATS)
-
-I have done work on: 
+  
+To date I have worked on 14 research manuscripts. I have done work on: 
 - Scalable uncertainty quantification for machine learning with Bayesian inference
 - Variational inference
 - Markov chain Monte Carlo (adaptive and tempering methods)
