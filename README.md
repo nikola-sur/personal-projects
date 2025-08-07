@@ -20,7 +20,8 @@ I am a core contributor of the Pigeons project, a Julia package for distributed 
 
 ## Professional Project - Machine Learning and Gen AI at Amazon 
 
-I developed ML models and agentic workflows at Amazon during my internship as an Applied Scientist in Bellevue, WA on the Supply Chain Optimization Technologies team. Amazon operates one of the world's largest supply chains and machine learning models have a direct impact on the experience of millions of customers on a daily basis.
+I developed ML models and agentic workflows at Amazon during my internship as an Applied Scientist in Bellevue, WA on the Supply Chain Optimization Technologies team in 2025. Amazon operates one of the world's largest supply chains and machine learning models have a direct impact on the experience of millions of customers on a daily basis. For more information, please see my resume. 
+
 
 ## Professional Projects - Assorted Research Papers 
 
@@ -52,6 +53,8 @@ Play the classic guessing game against AI. You can choose to have the AI guess y
 
 ## Personal Project - "Time Architect" 
 *Link: https://github.com/nikola-sur/time-architect* 
+
+[Work in progress.] A team of AI agents with a chatbot interface that help you plan your activities for the day. Perfect for creative workers and those who have control over their own schedules, but don't know how to optimize their schedule to achieve peak productivity. Several different sub-agents work together (schedule compatibility tool, energy pattern agent, focus match agent, etc.) to form a complete schedule that balances the user's preferences (early bird vs. night owl) as well as time blocking, Pomodoro method, etc.
 
 **Skills:** 
 - Google Agent Development Kit
