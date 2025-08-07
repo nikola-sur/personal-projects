@@ -18,17 +18,30 @@ I am a core contributor of the Pigeons project, a Julia package for distributed 
 </p>
 
 
+## Professional Project - Machine Learning and Gen AI at Amazon 
+
+I developed ML models and agentic workflows at Amazon during my internship as an Applied Scientist in Bellevue, WA on the Supply Chain Optimization Technologies team. Amazon operates one of the world's largest supply chains and machine learning models have a direct impact on the experience of millions of customers on a daily basis.
+
 ## Professional Projects - Assorted Research Papers 
 
-Learn more about my research at www.nikola-sur.com. 
+Learn more about my research at www.nikola-sur.com. Research papers I have authored/co-authored have been published in top machine learning and statistics venues, such as: 
+- Neural Information Processing Systems (NeurIPS)
+- International Conference on Machine Learning (ICML)
+- Artificial Intelligence and Statistics (AISTATS)
+
+I have done work on: 
+- Scalable uncertainty quantification for machine learning with Bayesian inference
+- Variational inference
+- Markov chain Monte Carlo (adaptive and tempering methods)
+- Computational statistics applied to problems in astrophysics
+- Statistical theory and goodness-of-fit testing
 
 <hr>
 
 ## Personal Project - "Twenty Questions Against AI"
+*Link: https://github.com/nikola-sur/twenty-questions*
 
 Play the classic guessing game against AI. You can choose to have the AI guess your object or try to guess the AI's chosen object. Custom themes/topics are also possible.
-
-Click here to learn more.
 
 **Skills**: 
 - LLM prompting
@@ -36,8 +49,19 @@ Click here to learn more.
 - Javascript, HTML, CSS
 - App deployment
 
-## Knowledge Graph 
+
+## Personal Project - "Time Architect" 
+*Link: https://github.com/nikola-sur/time-architect* 
+
+**Skills:** 
+- Google Agent Development Kit
+- Amazon Web Services (EC2, S3, Lambda, etc.)
+- Database storage
+- LLM prompting
+
+
+## Personal Project - "Knowledge Graph"
 
 ## S
 
-## Google ADK
+
