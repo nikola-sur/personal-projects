@@ -59,12 +59,30 @@ Play the classic guessing game against AI. You can choose to have the AI guess y
 **Skills:** 
 - Google Agent Development Kit
 - Amazon Web Services (EC2, S3, Lambda, etc.)
+- Amazon Bedrock
 - Database storage
 - LLM prompting
 
 
-## Personal Project - "Knowledge Graph"
+## Personal Project - "Internal Slack Chatbot"
+*Link: https://github.com/nikola-sur/slack-chatbot* 
 
-## S
+[Work in progress.] A Slack chatbot that has knowledge about the team's internal documents.
+
+**Skills:** 
+- Retrieval-augmented generation (RAG)
+- Vector data stores
+- AWS Lambda
+- Slack APIs
+- LLM prompting
+- OpenAI API and model calls
+
+
+<!--
+## Personal Project - "Knowledge Graph"
+*Link: https://github.com/nikola-sur/knowledge-graph* 
+
+[Work in progress.]
+-->
 
 
