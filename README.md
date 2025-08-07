@@ -9,6 +9,13 @@ For more information about my professional projects, see my homepage: www.nikola
 
 I am a core contributor of the Pigeons project, a Julia package for distributed sampling from intractable distribution on up to 1,000s of MPI-communicating machines. A Python interface for the package is currently in progress. The package is used by numerous astrophysicists and scientists around the world, such as at the Event Horizon Telescope and Harvard University.
 
+<p align="center">
+  <img src="img/pigeons.png" alt="Pigeons logo" width="100"/>
+</p>
+
+<p align="center">
+  <img src="img/pigeons_plots.png" alt="Pigeons plotting functionality" width="500"/>
+</p>
 
 
 ## Professional Projects - Assorted Research Papers 
