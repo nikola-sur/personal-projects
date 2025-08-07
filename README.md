@@ -52,6 +52,9 @@ Play the classic guessing game against AI. You can choose to have the AI guess y
 - Javascript, HTML, CSS
 - App deployment
 
+<p align="center">
+    <img src="img/20_questions.png" alt="20 Questions Logo" width="400"/>
+</p>
 
 ## Personal Project - "Time Architect" 
 *Link: https://github.com/nikola-sur/time-architect* 
